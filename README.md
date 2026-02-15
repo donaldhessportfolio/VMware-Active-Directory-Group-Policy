@@ -45,8 +45,7 @@ User Configuration → Policies → Administrative Templates → Desktop
 
 This policy ensures branding consistency and validates policy enforcement behavior.
 
-### 📸 Screenshots
-![Wallpaper Policy 1](./images/wallpaper-policy-1.png)
+![Wallpaper Policy 1](https://github.com/donaldhessportfolio/Active-Directory-Group-Policy/blob/main/Desktop-Policy.png)
 
 ---
 
@@ -59,8 +58,7 @@ Created a restrictive user policy that prevents access to the Control Panel. Thi
 - Reduces attack surface from user tampering  
 - Demonstrates administrative template enforcement  
 
-### 📸 Screenshots
-![Control Panel Restriction 1](./images/control-panel-1.png)
+![Control Panel Restriction 1](https://github.com/donaldhessportfolio/Active-Directory-Group-Policy/blob/main/Control-Panel-Policy.png)
 
 ---
 
@@ -73,8 +71,7 @@ Computer Configuration → Policies → Administrative Templates → System → 
 
 This simulates data loss prevention (DLP) and insider threat mitigation controls.
 
-### 📸 Screenshots
-![USB Blocking 1](./images/usb-block-1.png)
+![USB Blocking 1](https://github.com/donaldhessportfolio/Active-Directory-Group-Policy/blob/main/USB-Policy.png)
 
 ---
 
@@ -91,8 +88,7 @@ I validated the policy by intentionally triggering failed login attempts from a 
 
 This demonstrates practical blue-team defensive configuration aligned with real SOC detection scenarios.
 
-### 📸 Screenshots
-![Lockout Policy 1](./images/lockout-1.png)
+![Lockout Policy 1](https://github.com/donaldhessportfolio/Active-Directory-Group-Policy/blob/main/Account-Lockout-Policy.png)
 
 ---
 
