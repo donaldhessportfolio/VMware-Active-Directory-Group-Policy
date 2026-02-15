@@ -19,12 +19,7 @@ Created a domain-level password policy to enforce stronger authentication standa
 
 These controls simulate enterprise identity security baselines and align with common compliance frameworks.
 
-### 📸 Screenshots
-![Password Policy 1](./images/password-policy-1.png)
-![Password Policy 2](./images/password-policy-2.png)
-![Password Policy 3](./images/password-policy-3.png)
-![Password Policy 4](./images/password-policy-4.png)
-![Password Policy 5](./images/password-policy-5.png)
+![Password Policy 1](https://github.com/donaldhessportfolio/Active-Directory-Group-Policy/blob/main/Password-Policy.png)
 
 ---
 
@@ -37,12 +32,7 @@ Configured a user-based Group Policy Preference to automatically map network dri
 - Automatic network share mapping at login  
 - Demonstrates policy vs. preference implementation differences  
 
-### 📸 Screenshots
-![Drive Mapping 1](./images/drive-mapping-1.png)
-![Drive Mapping 2](./images/drive-mapping-2.png)
-![Drive Mapping 3](./images/drive-mapping-3.png)
-![Drive Mapping 4](./images/drive-mapping-4.png)
-![Drive Mapping 5](./images/drive-mapping-5.png)
+![Drive Mapping 1](https://github.com/donaldhessportfolio/Active-Directory-Group-Policy/blob/main/Drive-Mapping.png)
 
 ---
 
@@ -57,10 +47,6 @@ This policy ensures branding consistency and validates policy enforcement behavi
 
 ### 📸 Screenshots
 ![Wallpaper Policy 1](./images/wallpaper-policy-1.png)
-![Wallpaper Policy 2](./images/wallpaper-policy-2.png)
-![Wallpaper Policy 3](./images/wallpaper-policy-3.png)
-![Wallpaper Policy 4](./images/wallpaper-policy-4.png)
-![Wallpaper Policy 5](./images/wallpaper-policy-5.png)
 
 ---
 
@@ -75,10 +61,6 @@ Created a restrictive user policy that prevents access to the Control Panel. Thi
 
 ### 📸 Screenshots
 ![Control Panel Restriction 1](./images/control-panel-1.png)
-![Control Panel Restriction 2](./images/control-panel-2.png)
-![Control Panel Restriction 3](./images/control-panel-3.png)
-![Control Panel Restriction 4](./images/control-panel-4.png)
-![Control Panel Restriction 5](./images/control-panel-5.png)
 
 ---
 
@@ -93,10 +75,6 @@ This simulates data loss prevention (DLP) and insider threat mitigation controls
 
 ### 📸 Screenshots
 ![USB Blocking 1](./images/usb-block-1.png)
-![USB Blocking 2](./images/usb-block-2.png)
-![USB Blocking 3](./images/usb-block-3.png)
-![USB Blocking 4](./images/usb-block-4.png)
-![USB Blocking 5](./images/usb-block-5.png)
 
 ---
 
@@ -115,10 +93,6 @@ This demonstrates practical blue-team defensive configuration aligned with real 
 
 ### 📸 Screenshots
 ![Lockout Policy 1](./images/lockout-1.png)
-![Lockout Policy 2](./images/lockout-2.png)
-![Lockout Policy 3](./images/lockout-3.png)
-![Lockout Policy 4](./images/lockout-4.png)
-![Lockout Policy 5](./images/lockout-5.png)
 
 ---
 
