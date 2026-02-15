@@ -1,4 +1,16 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/donaldhessportfolio/Active-Directory-Group-Policy/main/vmware_256px.png" width="180"/>
+</p>
+
+<p align="center">
+  <b>Lab Environment: VMware Workstation | Windows Server 2022 Active Directory</b>
+</p>
+
+---
+
+
 ## 🏢 Active Directory Group Policy Hardening Lab (Windows Server 2022)
+
 
 In this lab, I implemented and tested multiple Group Policy Objects (GPOs) within a Windows Server 2022 Active Directory environment running in VMware. The goal was to simulate real-world enterprise policy enforcement by creating security-focused configurations that control authentication, endpoint behavior, and user restrictions.
 
